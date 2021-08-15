@@ -1,0 +1,11 @@
+Change the following version as per your JDK local version under pom.xml. 
+<properties>
+    <maven.compiler.source>1.8</maven.compiler.source>
+    <maven.compiler.target>1.8</maven.compiler.target>
+  </properties>
+
+Install maven latest version in your laptop and Set path
+
+Go to project folder and Run below Commands:
+mvn package
+mvn clean test
