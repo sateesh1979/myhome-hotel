@@ -1,0 +1,6 @@
+org\myhomehotel\model\MyHomeReservation.class
+org\myhomehotel\util\MyHomeUtil.class
+org\myhomehotel\App.class
+org\myhomehotel\model\HomeGuest.class
+org\myhomehotel\impl\BookingManager.class
+org\myhomehotel\manager\inf\HotelManager.class
